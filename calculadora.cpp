@@ -20,7 +20,7 @@ int main(){
 	cout<<"DIVISION (/)"<<endl;
 	cout<<'\n';
 	
-	//DU While para permitir minimo un ingreso
+	//Do While para permitir minimo un ingreso
 	do{
 		cout<<"Ingrese el primer numero: ";
 		cin>>num1;
@@ -63,7 +63,7 @@ int main(){
 			cout<<'\n';
 			break;
 		default:
-			cout << "Operación no válida." << endl;
+			cout << "OperaciÃ³n no vÃ¡lida." << endl;
 			break;
 	}
 	
